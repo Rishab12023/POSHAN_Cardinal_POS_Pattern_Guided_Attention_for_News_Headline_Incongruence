@@ -1,0 +1,1 @@
+# POSHAN_Cardinal_POS_Pattern_Guided_Attention_for_News_Headline_Incongruence_on_FNC_Dataset
